@@ -7,7 +7,7 @@ import re
 from anthropic_2 import extract_tables_from_pdf, validate_upc_values, process_reg_san_excel
 
 # API Key (Replace with your actual key)
-api_key = "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"
+api_key = ""
 
 # Temporary directory for CSV files
 TEMP_DIR = "temp"
